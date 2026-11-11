@@ -1,0 +1,5 @@
+node_modules/
+mes-taches/node_modules/
+mes-taches/dist/
+*.log
+.DS_Store
